@@ -1,2 +1,2 @@
 # LDL_ML
-standardized ML practices in predict LDL-C
+standardized ML practices for predicting LDL-C
